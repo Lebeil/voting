@@ -1,0 +1,1 @@
+Bienvenue dans le projet Voting codé en Solidity avec l'école Alyra
